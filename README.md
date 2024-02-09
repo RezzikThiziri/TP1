@@ -34,8 +34,9 @@ Utilisation
   Lancer le Frontend avec les commandes suivantes : 
   cd TP1/Frontend => éxécuter la commande : sudo npm install 
   cd TP1/Frontend/src=> éxécuter la commande : npm rebuild node-sass, Ensuite la commande : npm start
-   
-
+  
+  aprés avoir crée votre compte et connecté se rendre sur profile pour voir votre : 
+  nom, prénom, email 
   
 
     
