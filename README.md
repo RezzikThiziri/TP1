@@ -19,7 +19,7 @@ Technologies Utilisées:
 
 Installation
      
-    Clonez ce dépôt sur votre machine locale.
+    Clonez ce dépôt : git@github.com:RezzikThiziri/TP1.git.
     Assurez-vous d'avoir Node.js et MongoDB installés sur votre machine.
     Dans le répertoire du projet, installez les dépendances en exécutant la commande npm install.
     
